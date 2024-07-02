@@ -206,6 +206,7 @@
 ##.PushNotification--top
 ##.PushNotification-popover-dialog
 ##.PushSubscription-block
+##.ampnotification
 ##.apn-popover-container
 ##.aswpn-fire-push-popup
 ##.b-notification-push
@@ -717,6 +718,7 @@
 ||flashscore.fr^*/build/notifications.
 ||futura-sciences.com/clientscript/push.js
 ||horoscope.fr/notifications/
+||informazione.it/wr/promo-miainfo.js
 ||metrobilbao.eus/firebase-messaging-sw.js
 ||push.idowa.de^
 ||push.neko-san.fr^
@@ -737,6 +739,7 @@ thehindu.com,thehindubusinessline.com###gsi_overlay
 masrawy.com,yallakora.com###izooto-optin
 kizi.com###kizi-popover-dialog
 tdtube.net###main-fixed
+vk.com###page_bottom_banners_root
 iol.pt###popover
 livenation.co.nz###push-notifications-popup
 bigislandnow.com###pushNotifications
@@ -1000,7 +1003,7 @@ warbyparker.com##.c-hYggeK
 filmarks.com##.c-header-download-banner
 ctvnews.ca##.c-text > ul > li
 cricbuzz.com##.cbz-leaderboard-banner
-apkpure.net##.chrome-install-pop
+apkpure.com,apkpure.net##.chrome-install-pop
 clayandbuck.com##.cnb-download-app-at-mobile
 coinpaprika.com##.coins-mobile-banner
 kijiji.ca##.container-3757608091

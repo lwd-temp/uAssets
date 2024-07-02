@@ -2049,7 +2049,6 @@ imgur.com##.Ad
 dengekionline.com##.ArticleList_listBanner__9Vy9d
 photonics.com##.BOX_MarginOut
 wgbh.org##.BottomPopupModule
-atlasobscura.com##.DDPageSiderailAds
 tabletmag.com##.DonationPopup
 talkingpointsmemo.com##.Footer__ModalAds
 techlila.com##.IRPP_button
@@ -2305,9 +2304,6 @@ tedium.co##.md-adbox
 themedialine.org##.mdl-section-donate-banner
 warontherocks.com##.member-button-container
 rigzone.com##.memberEngagementOverlay
-bitchute.com##.membership-container > .spa
-bitchute.com##.membership-container > span
-atlasobscura.com##.membership-creative
 axios.com##.membership-cta
 daily.jstor.org##.membership-incontent-banner
 birdwatchingdaily.com##.membership-promotion-header-banner
@@ -2441,6 +2437,7 @@ scmp.com##.stickyLinks
 dcist.com##.story-appeal
 cryptorank.io##.styled__Wrapper-sc-1xbee9a-0
 lareviewofbooks.org##.styles_cta__rFpfQ
+lareviewofbooks.org##.styles_membershipContainer__10uhb
 nowpatient.com##.su-advertisement-wrapper
 newsweek.com##.subscribe-block-wrapper
 nautil.us##.subscribe-cta
@@ -3165,7 +3162,7 @@ plough.com##+js(remove-cookie, ArticlePaywallList)
 ! startribune.com (login/reg check)
 startribune.com##+js(remove-cookie, client_id)
 ! Mouse out nags
-wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
+whas11.com,wfmynews2.com,wbir.com,wzzm13.com,wltx.com,wqad.com,wnep.com,wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ! t-nation.com 
 t-nation.com##.toggle_lb_scrolling_mobile
 t-nation.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
